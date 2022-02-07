@@ -15,12 +15,13 @@
   </tr>
 </table>
 
-## Technologies
+# Technologies
 
 
 
 <div>
-  ### Languages
+  
+  ## Languages
   <div>
     <img src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" width="50">
    <img src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" width="50">
@@ -30,7 +31,7 @@
   </div>
 
   
-  ### Tools
+  ## Tools
   <div>
     <img src="https://pics.freeicons.io/uploads/icons/png/6247864081536298180-512.png" width="50">
     <img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" width="50">
@@ -42,8 +43,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50">  </div>
 </div>
 
+
+<div>
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealkai&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="therealkai" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=therealkai&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="therealkai" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=therealkai&theme=highcontrast&hide_border=true" alt="therealkai" />
 </p>
+</div>
