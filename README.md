@@ -4,13 +4,14 @@
 <tr>
   <td valign="center">
     🌱 I am a future Frontend Web Developer that loves to problem solve. <br/>
-    🎓 I’m currently taking a Web Developement Program at Daytona State College. <br/>
+    🎓 I’m currently taking a Web Development Program at Daytona State College. <br/>
     🎯 I’m looking to gain experince by contributing to open source.<br/>
     📫 How to reach me: email: kbechdel8@gmail.com | discord username: Kai#6941 | twitter - @KaiWritesCode<br/>
 
 <td >
-  <a href="https://app.daily.dev/kaiwritescode"><img src="https://api.daily.dev/devcards/2738bdc70b31409c85f0f26725695899.png?r=7fc" width="400" alt="Kai   Bechdel's   Dev Card"/></a>
-    </td>
+  <img src="https://www.impactmybiz.com/wp-content/uploads/2020/06/20210805_Impact_5-Advanced-Tech-Examples-Blog_Hero-1.jpg" width="750" >
+
+  </td>
 
   </tr>
 </table>
@@ -46,8 +47,14 @@
 
 <div>
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealkai&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="therealkai" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=therealkai&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="therealkai" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=therealkai&theme=highcontrast&hide_border=true" alt="therealkai" />
+  <div>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=therealkai&show_icons=true&theme=cobalt&hide_border=true" alt="therealkai" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=therealkai&theme=highcontrast&hide_border=true" alt="therealkai" />
+    </div>
+
+
+  <div style="display: flex; justify-content: center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealkai&show_icons=true&theme=cobalt&locale=en&layout=compact&hide_border=true" alt="therealkai" /> 
+    </div>
 </p>
 </div>
