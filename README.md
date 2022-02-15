@@ -39,9 +39,10 @@
     <img src="https://pics.freeicons.io/uploads/icons/png/3842828341530103314-512.png" width="50">
     <img src="https://pics.freeicons.io/uploads/icons/png/9655574981556105319-512.png" width="50">
     <img src="https://iconape.com/wp-content/png_logo_vector/node-js-2.png" width="50">
-    <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" width="50">
+    <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" width="40">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50">  </div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50">
+  </div>
 </div>
 
 
@@ -51,9 +52,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=therealkai&show_icons=true&theme=cobalt&hide_border=true" alt="therealkai" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=therealkai&theme=highcontrast&hide_border=true" alt="therealkai" />
     </div>
+</p>
 
-
-  <div style="display: flex; justify-content: center">
+<p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealkai&show_icons=true&theme=cobalt&locale=en&layout=compact&hide_border=true" alt="therealkai" /> 
     </div>
 </p>
