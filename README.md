@@ -9,7 +9,7 @@
     📫 How to reach me: email: kbechdel8@gmail.com | discord username: Kai#6941 | twitter - @KaiWritesCode<br/>
 
 <td >
-  <img src="https://user-images.githubusercontent.com/84258692/154193897-b3e3106f-7d7a-4588-a650-ec7a24c5734f.png" width="750" >
+  <img src="https://user-images.githubusercontent.com/84258692/154194052-34a46423-4959-4575-b6eb-8a45f160ad95.png" width="750" >
 
   </td>
 
