@@ -5,7 +5,7 @@
   <td valign="center">
     🌱 I am a future Frontend Web Developer that loves to problem solve. <br/>
     🎓 I’m currently taking a Web Development Program at Daytona State College. <br/>
-    🎯 I’m looking to gain experince by contributing to open source.<br/>
+    🎯 I’m looking to gain experience by contributing to open source.<br/>
     📫 How to reach me: email: kbechdel8@gmail.com | discord username: Kai#6941 | twitter - @KaiWritesCode<br/>
 
 <td >
@@ -60,5 +60,3 @@
 </p>
 </div>
 
-START_SECTION:activity
-END_SECTION:activity
