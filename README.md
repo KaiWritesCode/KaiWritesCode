@@ -49,13 +49,13 @@
 <div>
 <p align="center">
   <div>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=therealkai&show_icons=true&theme=cobalt&hide_border=true" alt="therealkai" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=therealkai&theme=highcontrast&hide_border=true" alt="therealkai" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaiwritescode&show_icons=true&theme=cobalt&hide_border=true" alt="kaiwritescode" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwritescode&theme=highcontrast&hide_border=true" alt="kaiwritescode" />
     </div>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealkai&show_icons=true&theme=cobalt&locale=en&layout=compact&hide_border=true" alt="therealkai" /> 
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiwritescode&show_icons=true&theme=cobalt&locale=en&layout=compact&hide_border=true" alt="kaiwritescode" /> 
     </div>
 </p>
 </div>
